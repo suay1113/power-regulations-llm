@@ -1,0 +1,20 @@
+#python3.10
+torch==2.1.2  ##on Windows system, install the cuda version manually from https://pytorch.org/
+torchvision  #on Windows system, install the cuda version manually from https://pytorch.org/
+torchaudio  #on Windows system, install the cuda version manually from https://pytorch.org/
+langchain==0.1.7
+faiss-cpu==1.7.4
+transformers==4.37.2
+docx2txt==0.8
+sentence_transformers==2.3.1
+PyMuPDF
+unstructured[all-docs] #if errors, visit https://github.com/Unstructured-IO/unstructured#installing-the-library
+rapidocr-onnxruntime
+flask
+openai
+fastapi
+gradio==4.44.0
+# langchain_community
+# docx2txt==0.8
+# sentence_transformers==0.4.0
+# faiss-gpu

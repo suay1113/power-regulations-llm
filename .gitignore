@@ -1,0 +1,17 @@
+.ipynb_checkpoints
+cache
+static
+logs
+.ipynb_checkpoints
+# Byte-compiled / optimized / DLL files
+*/__pycache__
+*$py.class
+*/.ipynb_checkpoints
+*/.ipynb_checkpoints/**
+*.pvc
+*.bin
+*.model
+*.ttf
+*.log
+.DS_Store
+~          

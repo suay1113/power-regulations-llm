@@ -1,0 +1,1 @@
+uvicorn api:app --port 3535 --host 0.0.0.0 --workers 5 
